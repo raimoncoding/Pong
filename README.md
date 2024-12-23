@@ -1,4 +1,7 @@
 # Pong Game
+
+![Pong Game Gameplay](pong-gameplay.gif)
+
 This is a Python Turtle-based implementation of the classic arcade game Pong. It features two paddles, a ball that accelerates when it hits the paddle, and a scoreboard to keep track of the players' points.
 
 # Requirements
